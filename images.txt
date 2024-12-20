@@ -4,7 +4,6 @@ redis:7.0.5
 redis:6.2.7
 zookeeper:3.8.2
 bitnami/kafka:3.5.1
---platform linux/arm64 canal/canal-server:v1.1.7
 rabbitmq:management
 zipkin_2.21.7
 docker.elastic.co/elasticsearch/elasticsearch:7.12.1    
