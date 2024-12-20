@@ -1,13 +1,11 @@
-#redis:7.4.1
-#nginx:1.27.2
-#mysql:8.4.3
-#nacos/nacos-server:v2.4.3
-#nacos/nacos-server:v2.1.0
-#redis
-#ghcr.io/sozercan/llama3.1:8b
-#ghcr.io/open-webui/open-webui:ollama
-#ghcr.io/open-webui/open-webui:cuda
-#cr2.fit2cloud.com/1panel/maxkb
-kubesphere/ks-installer:v3.4.1
-
-
+mysql:5.7
+zhusaidong/nacos-server-m1:2.0.3
+redis:7.0.5
+redis:6.2.7
+zookeeper:3.8.2
+bitnami/kafka:3.5.1
+--platform linux/arm64 canal/canal-server:v1.1.7
+rabbitmq:management
+zipkin_2.21.7
+docker.elastic.co/elasticsearch/elasticsearch:7.12.1    
+docker.elastic.co/kibana/kibana:7.12.1
